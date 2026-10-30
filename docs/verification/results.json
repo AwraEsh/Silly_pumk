@@ -4,9 +4,9 @@
     "height": 740,
     "pageWidth": 320,
     "pageHeight": 740,
-    "text": "Happy\nHalloween\n\nFrom Silly Arash",
-    "buttons": 0,
-    "scripts": 0,
+    "text": "this is my pumpkin bro\n\nHappy\nHalloween\n\nFrom Silly Arash",
+    "buttons": 1,
+    "scripts": 1,
     "images": [
       {
         "src": "./assets/pumpkin.svg",
@@ -16,7 +16,9 @@
     "link": "https://t.me/Silly_Arash",
     "resources": [
       "http://127.0.0.1:8089/assets/fonts/UnifrakturMaguntia.woff2",
+      "http://127.0.0.1:8089/assets/pumpkin-shell.svg",
       "http://127.0.0.1:8089/styles.css",
+      "http://127.0.0.1:8089/pumpkin.js",
       "http://127.0.0.1:8089/assets/pumpkin.svg",
       "http://127.0.0.1:8089/assets/forest.svg#art",
       "http://127.0.0.1:8089/assets/fonts/CormorantGaramond.woff2",
@@ -28,9 +30,9 @@
     "height": 800,
     "pageWidth": 360,
     "pageHeight": 800,
-    "text": "Happy\nHalloween\n\nFrom Silly Arash",
-    "buttons": 0,
-    "scripts": 0,
+    "text": "this is my pumpkin bro\n\nHappy\nHalloween\n\nFrom Silly Arash",
+    "buttons": 1,
+    "scripts": 1,
     "images": [
       {
         "src": "./assets/pumpkin.svg",
@@ -40,7 +42,9 @@
     "link": "https://t.me/Silly_Arash",
     "resources": [
       "http://127.0.0.1:8089/assets/fonts/UnifrakturMaguntia.woff2",
+      "http://127.0.0.1:8089/assets/pumpkin-shell.svg",
       "http://127.0.0.1:8089/styles.css",
+      "http://127.0.0.1:8089/pumpkin.js",
       "http://127.0.0.1:8089/assets/pumpkin.svg",
       "http://127.0.0.1:8089/assets/forest.svg#art",
       "http://127.0.0.1:8089/assets/fonts/CormorantGaramond.woff2"
@@ -51,9 +55,9 @@
     "height": 844,
     "pageWidth": 390,
     "pageHeight": 844,
-    "text": "Happy\nHalloween\n\nFrom Silly Arash",
-    "buttons": 0,
-    "scripts": 0,
+    "text": "this is my pumpkin bro\n\nHappy\nHalloween\n\nFrom Silly Arash",
+    "buttons": 1,
+    "scripts": 1,
     "images": [
       {
         "src": "./assets/pumpkin.svg",
@@ -63,7 +67,9 @@
     "link": "https://t.me/Silly_Arash",
     "resources": [
       "http://127.0.0.1:8089/assets/fonts/UnifrakturMaguntia.woff2",
+      "http://127.0.0.1:8089/assets/pumpkin-shell.svg",
       "http://127.0.0.1:8089/styles.css",
+      "http://127.0.0.1:8089/pumpkin.js",
       "http://127.0.0.1:8089/assets/pumpkin.svg",
       "http://127.0.0.1:8089/assets/forest.svg#art",
       "http://127.0.0.1:8089/assets/fonts/CormorantGaramond.woff2"
@@ -74,9 +80,9 @@
     "height": 1024,
     "pageWidth": 768,
     "pageHeight": 1024,
-    "text": "Happy Halloween\n\nFrom Silly Arash",
-    "buttons": 0,
-    "scripts": 0,
+    "text": "this is my pumpkin bro\n\nHappy Halloween\n\nFrom Silly Arash",
+    "buttons": 1,
+    "scripts": 1,
     "images": [
       {
         "src": "./assets/pumpkin.svg",
@@ -86,7 +92,9 @@
     "link": "https://t.me/Silly_Arash",
     "resources": [
       "http://127.0.0.1:8089/assets/fonts/UnifrakturMaguntia.woff2",
+      "http://127.0.0.1:8089/assets/pumpkin-shell.svg",
       "http://127.0.0.1:8089/styles.css",
+      "http://127.0.0.1:8089/pumpkin.js",
       "http://127.0.0.1:8089/assets/pumpkin.svg",
       "http://127.0.0.1:8089/assets/forest.svg#art",
       "http://127.0.0.1:8089/assets/fonts/CormorantGaramond.woff2"
@@ -97,9 +105,9 @@
     "height": 900,
     "pageWidth": 1440,
     "pageHeight": 900,
-    "text": "Happy Halloween\n\nFrom Silly Arash",
-    "buttons": 0,
-    "scripts": 0,
+    "text": "this is my pumpkin bro\n\nHappy Halloween\n\nFrom Silly Arash",
+    "buttons": 1,
+    "scripts": 1,
     "images": [
       {
         "src": "./assets/pumpkin.svg",
@@ -109,7 +117,9 @@
     "link": "https://t.me/Silly_Arash",
     "resources": [
       "http://127.0.0.1:8089/assets/fonts/UnifrakturMaguntia.woff2",
+      "http://127.0.0.1:8089/assets/pumpkin-shell.svg",
       "http://127.0.0.1:8089/styles.css",
+      "http://127.0.0.1:8089/pumpkin.js",
       "http://127.0.0.1:8089/assets/pumpkin.svg",
       "http://127.0.0.1:8089/assets/forest.svg#art",
       "http://127.0.0.1:8089/assets/fonts/CormorantGaramond.woff2"
@@ -120,9 +130,9 @@
     "height": 390,
     "pageWidth": 844,
     "pageHeight": 390,
-    "text": "Happy Halloween\n\nFrom Silly Arash",
-    "buttons": 0,
-    "scripts": 0,
+    "text": "this is my pumpkin bro\n\nHappy Halloween\n\nFrom Silly Arash",
+    "buttons": 1,
+    "scripts": 1,
     "images": [
       {
         "src": "./assets/pumpkin.svg",
@@ -132,7 +142,9 @@
     "link": "https://t.me/Silly_Arash",
     "resources": [
       "http://127.0.0.1:8089/assets/fonts/UnifrakturMaguntia.woff2",
+      "http://127.0.0.1:8089/assets/pumpkin-shell.svg",
       "http://127.0.0.1:8089/styles.css",
+      "http://127.0.0.1:8089/pumpkin.js",
       "http://127.0.0.1:8089/assets/pumpkin.svg",
       "http://127.0.0.1:8089/assets/forest.svg#art",
       "http://127.0.0.1:8089/assets/fonts/CormorantGaramond.woff2"

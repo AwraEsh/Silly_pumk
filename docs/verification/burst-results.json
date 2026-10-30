@@ -1,0 +1,24 @@
+[
+  {
+    "reducedMotion": false,
+    "shards": 42,
+    "teeth": 1,
+    "blood": true,
+    "drops": 16,
+    "titleMotion": "haunted-ink",
+    "overflow": false,
+    "reloaded": true,
+    "runtimeErrors": []
+  },
+  {
+    "reducedMotion": true,
+    "shards": 42,
+    "teeth": 1,
+    "blood": true,
+    "drops": 5,
+    "titleMotion": "none",
+    "overflow": false,
+    "reloaded": true,
+    "runtimeErrors": []
+  }
+]

@@ -17,7 +17,9 @@
       type="font/woff2"
       crossorigin
     />
+    <link rel="preload" href="./assets/pumpkin-shell.svg" as="image" />
     <link rel="stylesheet" href="./styles.css" />
+    <script src="./pumpkin.js" defer></script>
   </head>
   <body>
     <div class="forest" aria-hidden="true">
@@ -28,14 +30,45 @@
     <div class="darkness" aria-hidden="true"></div>
     <div class="mist" aria-hidden="true"></div>
     <main class="greeting">
-      <img
-        class="pumpkin"
-        src="./assets/pumpkin.svg"
-        width="320"
-        height="310"
-        alt="A goofy Halloween pumpkin with tiny eyes, a huge open mouth, and one lonely top tooth."
-      />
-      <h1>Happy <br />Halloween</h1>
+      <p class="pumpkin-caption">this is my pumpkin bro</p>
+      <button
+        class="pumpkin-trigger"
+        type="button"
+        aria-label="A silly pumpkin. Tap quickly for a surprise."
+      >
+        <img
+          class="pumpkin"
+          src="./assets/pumpkin.svg"
+          width="320"
+          height="310"
+          alt="A goofy pumpkin with tiny eyes, a huge open mouth, and one top tooth."
+        />
+      </button>
+      <h1>
+        <span class="title-ink">Happy <br />Halloween</span
+        ><svg
+          class="blood-on-title"
+          viewBox="0 0 600 170"
+          preserveAspectRatio="none"
+          aria-hidden="true"
+        >
+          <g fill="#861c29">
+            <path
+              d="M47 53c-18-13-27 9-9 14 7 3 13-2 9-14Zm160-14c-23-6-28 20-7 20 12 0 16-12 7-20Zm238 17c-20-9-24 13-9 19 14 4 21-11 9-19ZM554 90c-18-5-25 17-8 20 15 2 22-13 8-20Z"
+            />
+            <circle cx="61" cy="82" r="4" />
+            <circle cx="183" cy="24" r="3" />
+            <circle cx="218" cy="72" r="5" />
+            <circle cx="428" cy="44" r="4" />
+            <circle cx="575" cy="68" r="3" />
+          </g>
+          <g class="blood-trails" fill="#781824">
+            <path
+              d="M40 63h6v62q0 12-3 12t-3-12Zm158-9h5v44q0 12-2.5 12T198 98Zm240 14h5v70q0 14-2.5 14t-2.5-14Zm108 35h5v38q0 12-2.5 12t-2.5-12Z"
+            />
+          </g>
+        </svg>
+      </h1>
       <p>
         From
         <a
