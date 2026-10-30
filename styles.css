@@ -1,0 +1,146 @@
+@font-face {
+  font-family: Unifraktur;
+  src: url("./assets/fonts/UnifrakturMaguntia.woff2") format("woff2");
+  font-display: swap;
+}
+@font-face {
+  font-family: Cormorant;
+  src: url("./assets/fonts/CormorantGaramond.woff2") format("woff2");
+  font-display: swap;
+}
+:root {
+  color-scheme: dark;
+  background: #080e12;
+  color: #e8ddbf;
+  font-family: Cormorant, Georgia, serif;
+}
+* {
+  box-sizing: border-box;
+}
+body {
+  margin: 0;
+  min-width: 240px;
+}
+.forest,
+.darkness,
+.mist {
+  position: fixed;
+  inset: 0;
+  pointer-events: none;
+}
+.forest {
+  overflow: hidden;
+}
+.forest svg {
+  display: block;
+  width: 100%;
+  height: 100%;
+}
+/* The trees stay cold. Only the pumpkin and the lettering carry warmth. */
+.darkness {
+  background: radial-gradient(
+    ellipse at 50% 48%,
+    #080e1255 12%,
+    #060b12b0 75%,
+    #03070bd9
+  );
+}
+.mist {
+  inset: 65% -15% -8%;
+  background: radial-gradient(ellipse, #8ca7a00d, transparent 65%);
+  animation: mist-drift 24s ease-in-out infinite alternate;
+}
+.greeting {
+  min-height: 100svh;
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  padding: max(24px, env(safe-area-inset-top))
+    max(20px, env(safe-area-inset-right)) max(32px, env(safe-area-inset-bottom))
+    max(20px, env(safe-area-inset-left));
+  text-align: center;
+}
+.pumpkin {
+  width: clamp(170px, 22vw, 280px);
+  height: auto;
+  display: block;
+  margin: 0 0 4px;
+}
+h1 {
+  font-family: Unifraktur, Georgia, serif;
+  font-size: clamp(64px, 8.5vw, 118px);
+  font-weight: 400;
+  line-height: 0.98;
+  letter-spacing: -0.025em;
+  margin: 0;
+  color: #e7cf9c;
+}
+h1 br {
+  display: none;
+}
+p {
+  font-size: 17px;
+  margin: 20px 0 0;
+  color: #b3b4a6;
+}
+a {
+  color: inherit;
+  text-decoration: none;
+  display: inline-flex;
+  align-items: center;
+  min-height: 44px;
+}
+a:hover {
+  color: #e7cf9c;
+}
+a:focus-visible {
+  outline: 1px solid #e7cf9c;
+  outline-offset: 4px;
+}
+@keyframes mist-drift {
+  from {
+    transform: translateX(-3%);
+  }
+  to {
+    transform: translateX(3%);
+  }
+}
+@media (max-width: 600px) {
+  .forest svg {
+    width: 160%;
+    margin-left: -30%;
+  }
+  .pumpkin {
+    width: clamp(170px, 48vw, 218px);
+    margin-bottom: 12px;
+  }
+  h1 {
+    font-size: clamp(54px, 17vw, 84px);
+    line-height: 0.95;
+  }
+  h1 br {
+    display: initial;
+  }
+  p {
+    font-size: 16px;
+    margin-top: 18px;
+  }
+}
+@media (max-height: 480px) and (min-width: 601px) {
+  .pumpkin {
+    width: 140px;
+  }
+  h1 {
+    font-size: 62px;
+  }
+  p {
+    margin-top: 4px;
+  }
+}
+@media (prefers-reduced-motion: reduce) {
+  .mist {
+    animation: none;
+  }
+}

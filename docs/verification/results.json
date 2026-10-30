@@ -1,0 +1,141 @@
+[
+  {
+    "width": 320,
+    "height": 740,
+    "pageWidth": 320,
+    "pageHeight": 740,
+    "text": "Happy\nHalloween\n\nFrom Silly Arash",
+    "buttons": 0,
+    "scripts": 0,
+    "images": [
+      {
+        "src": "./assets/pumpkin.svg",
+        "loaded": true
+      }
+    ],
+    "link": "https://t.me/Silly_Arash",
+    "resources": [
+      "http://127.0.0.1:8089/assets/fonts/UnifrakturMaguntia.woff2",
+      "http://127.0.0.1:8089/styles.css",
+      "http://127.0.0.1:8089/assets/pumpkin.svg",
+      "http://127.0.0.1:8089/assets/forest.svg#art",
+      "http://127.0.0.1:8089/assets/fonts/CormorantGaramond.woff2",
+      "http://127.0.0.1:8089/assets/pumpkin.svg"
+    ]
+  },
+  {
+    "width": 360,
+    "height": 800,
+    "pageWidth": 360,
+    "pageHeight": 800,
+    "text": "Happy\nHalloween\n\nFrom Silly Arash",
+    "buttons": 0,
+    "scripts": 0,
+    "images": [
+      {
+        "src": "./assets/pumpkin.svg",
+        "loaded": true
+      }
+    ],
+    "link": "https://t.me/Silly_Arash",
+    "resources": [
+      "http://127.0.0.1:8089/assets/fonts/UnifrakturMaguntia.woff2",
+      "http://127.0.0.1:8089/styles.css",
+      "http://127.0.0.1:8089/assets/pumpkin.svg",
+      "http://127.0.0.1:8089/assets/forest.svg#art",
+      "http://127.0.0.1:8089/assets/fonts/CormorantGaramond.woff2"
+    ]
+  },
+  {
+    "width": 390,
+    "height": 844,
+    "pageWidth": 390,
+    "pageHeight": 844,
+    "text": "Happy\nHalloween\n\nFrom Silly Arash",
+    "buttons": 0,
+    "scripts": 0,
+    "images": [
+      {
+        "src": "./assets/pumpkin.svg",
+        "loaded": true
+      }
+    ],
+    "link": "https://t.me/Silly_Arash",
+    "resources": [
+      "http://127.0.0.1:8089/assets/fonts/UnifrakturMaguntia.woff2",
+      "http://127.0.0.1:8089/styles.css",
+      "http://127.0.0.1:8089/assets/pumpkin.svg",
+      "http://127.0.0.1:8089/assets/forest.svg#art",
+      "http://127.0.0.1:8089/assets/fonts/CormorantGaramond.woff2"
+    ]
+  },
+  {
+    "width": 768,
+    "height": 1024,
+    "pageWidth": 768,
+    "pageHeight": 1024,
+    "text": "Happy Halloween\n\nFrom Silly Arash",
+    "buttons": 0,
+    "scripts": 0,
+    "images": [
+      {
+        "src": "./assets/pumpkin.svg",
+        "loaded": true
+      }
+    ],
+    "link": "https://t.me/Silly_Arash",
+    "resources": [
+      "http://127.0.0.1:8089/assets/fonts/UnifrakturMaguntia.woff2",
+      "http://127.0.0.1:8089/styles.css",
+      "http://127.0.0.1:8089/assets/pumpkin.svg",
+      "http://127.0.0.1:8089/assets/forest.svg#art",
+      "http://127.0.0.1:8089/assets/fonts/CormorantGaramond.woff2"
+    ]
+  },
+  {
+    "width": 1440,
+    "height": 900,
+    "pageWidth": 1440,
+    "pageHeight": 900,
+    "text": "Happy Halloween\n\nFrom Silly Arash",
+    "buttons": 0,
+    "scripts": 0,
+    "images": [
+      {
+        "src": "./assets/pumpkin.svg",
+        "loaded": true
+      }
+    ],
+    "link": "https://t.me/Silly_Arash",
+    "resources": [
+      "http://127.0.0.1:8089/assets/fonts/UnifrakturMaguntia.woff2",
+      "http://127.0.0.1:8089/styles.css",
+      "http://127.0.0.1:8089/assets/pumpkin.svg",
+      "http://127.0.0.1:8089/assets/forest.svg#art",
+      "http://127.0.0.1:8089/assets/fonts/CormorantGaramond.woff2"
+    ]
+  },
+  {
+    "width": 844,
+    "height": 390,
+    "pageWidth": 844,
+    "pageHeight": 390,
+    "text": "Happy Halloween\n\nFrom Silly Arash",
+    "buttons": 0,
+    "scripts": 0,
+    "images": [
+      {
+        "src": "./assets/pumpkin.svg",
+        "loaded": true
+      }
+    ],
+    "link": "https://t.me/Silly_Arash",
+    "resources": [
+      "http://127.0.0.1:8089/assets/fonts/UnifrakturMaguntia.woff2",
+      "http://127.0.0.1:8089/styles.css",
+      "http://127.0.0.1:8089/assets/pumpkin.svg",
+      "http://127.0.0.1:8089/assets/forest.svg#art",
+      "http://127.0.0.1:8089/assets/fonts/CormorantGaramond.woff2"
+    ]
+  }
+]
